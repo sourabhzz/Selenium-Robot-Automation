@@ -1,0 +1,10 @@
+{
+  "Registration":
+
+          {
+            "username_name":"fld_username",
+            "email_xpath":"//input[@name='fld_email']",
+            "password_name": "fld_password"
+          }
+
+}
